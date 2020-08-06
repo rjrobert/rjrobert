@@ -1,5 +1,6 @@
-![<img src="https://raw.githubusercontent.com/rjrobert/rjrobert/master/assets/cover.png" alt="robertball.dev" title="robertball.dev"/>]()
+[![Header](https://raw.githubusercontent.com/rjrobert/rjrobert/master/assets/cover.png "Header")](https://robertball.dev/)
 ### Hi there, I'm Robert 👋
+I am a software engineer living and working in Portland, Oregon. 
 
 ##### 🔭 What I’m currently working on
 - [Debt Tracker](https://github.com/rjrobert/debt_tracker) - A visual debt tracking/paydown app for iPhone and Android
