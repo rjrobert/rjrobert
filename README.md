@@ -7,7 +7,7 @@ I am a software engineer living and working in Portland, Oregon.
 - POTS Tracker - A simple way to track symptoms of Postural Orthostatic Tachycardia Syndrome (POTS)
 
 ##### 🌱 I’m currently learning
-![](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter&logoColor=white) ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=plastic&logo=React&logoColor=white) 
+![](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter&logoColor=white) ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=plastic&logo=React&logoColor=white) ![](https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=Go&logoColor=white) 
 
 
 ##### 📫 How to reach me:
