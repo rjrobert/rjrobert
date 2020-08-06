@@ -1,3 +1,4 @@
+![<img src="https://raw.githubusercontent.com/rjrobert/rjrobert/master/assets/cover.png" alt="robertball.dev" title="robertball.dev"/>]()
 ### Hi there, I'm Robert 👋
 
 ##### 🔭 What I’m currently working on
