@@ -4,7 +4,8 @@ I am a software engineer living and working in Portland, Oregon.
 
 ##### 🔭 What I’m currently working on
 - [Debt Tracker](https://github.com/rjrobert/debt_tracker) - A visual debt tracking/paydown app for iPhone and Android
-- POTS Tracker - A simple way to track symptoms of Postural Orthostatic Tachycardia Syndrome (POTS)
+- [POTS Tracker](https://github.com/rjrobert/pots_tracker) - A simple way to track symptoms of Postural Orthostatic Tachycardia Syndrome (POTS)
+- [Health Survey](https://github.com/rjrobert/health-survey) - A online survey to track user results
 
 ##### 🌱 I’m currently learning
 ![](https://img.shields.io/badge/-Flutter-02569B?style=plastic&logo=Flutter&logoColor=white) ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=plastic&logo=React&logoColor=white) ![](https://img.shields.io/badge/-Go-00ADD8?style=plastic&logo=Go&logoColor=white) 
